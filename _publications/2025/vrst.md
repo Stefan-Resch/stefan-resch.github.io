@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology"
 pub_date:       "2025"
 abstract: >-
-#cover:          /assets/images/covers/vrst.png
+cover:          /assets/images/covers/vrst.png
 authors:
   - Stefan Resch
   - Anna Carroll
