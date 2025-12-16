@@ -15,5 +15,5 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Abstract: https://doi.org/10.1145/3640471.3680233
+  Paper: https://doi.org/10.1145/3640471.3680233
 ---
