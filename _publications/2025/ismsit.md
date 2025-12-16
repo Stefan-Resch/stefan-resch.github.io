@@ -5,7 +5,7 @@ selected:       true
 pub:            "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)"
 pub_date:       "2025"
 abstract: >-
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/framework.png
 authors:
   - Stefan Resch
 links:
