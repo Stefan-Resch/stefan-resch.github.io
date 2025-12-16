@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
 pub_date:       "2025"
 abstract: >-
-#cover:          /assets/images/covers/ladder-vr.png
+cover:          /assets/images/covers/ladder-vr.png
 authors:
   - Stefan Resch
   - Jean-Gabriel Hanania
