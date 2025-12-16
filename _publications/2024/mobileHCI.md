@@ -5,7 +5,7 @@ selected:       true
 pub:            "ACM Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction"
 pub_date:       "2024"
 abstract: >-
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/mobileHCI.png
 authors:
   - Stefan Resch
   - Lucian Zimmermann
