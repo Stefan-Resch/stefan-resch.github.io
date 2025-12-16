@@ -1,6 +1,6 @@
 ---
 title:          "Generatives Produktdesign orthopädischer Hilfsmittel: Potenziale und Herausforderungen von KI im Produktentwicklungsprozess"
-date:           2025-03-08 00:01:00 +0800
+date:           2025-10-17 00:01:00 +0800
 selected:       true
 pub:            "Book chapter: Künstliche Intelligenz im Einsatz für die erfolgreiche Patientenreise: Innovation, Integration und Stärkung"
 pub_date:       "2025"
