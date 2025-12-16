@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of Mensch und Computer"
 pub_date:       "2024"
 abstract: >-
-#cover:          /assets/images/covers/muc24.png
+cover:          /assets/images/covers/muc24.png
 authors:
   - Stefan Resch
   - Rohan Brijesh Tiwari
