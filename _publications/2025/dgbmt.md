@@ -5,7 +5,7 @@ selected:       true
 pub:            "Abstracts of the 2025 Joint Annual Conference of the Austrian (ÖGBMT), German (VDE DGBMT) and Swiss (SSBE) Societies for Biomedical Engineering"
 pub_date:       "2025"
 abstract: >-
-cover:          /assets/images/covers/design.png
+cover:          /assets/images/covers/Design.png
 authors:
   - Stefan Resch
   - Lucas Damrau
