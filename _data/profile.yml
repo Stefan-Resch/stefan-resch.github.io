@@ -6,9 +6,9 @@ positions:
 - name: Research Associate 
 - name: Frankfurt University of Applied Sciences
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-- name: PhD Student
-- name: University of Cadiz
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#- name: PhD Student
+#- name: University of Cadiz
+  #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "stefan.resch@fra-uas.de"
@@ -42,7 +42,7 @@ education:
     text <br/>
     Ph.D. Student
   date: Dec. 2022 - present
-  - name: Frankfurt University of Applied Sciences
+- name: Frankfurt University of Applied Sciences
   logo: /assets/images/badges/FRA-UAS.png
   position: M. Eng.
   date: - 2022
