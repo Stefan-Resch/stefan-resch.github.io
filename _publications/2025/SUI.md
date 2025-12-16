@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the 2025 ACM Symposium on Spatial User Interaction"
 pub_date:       "2025"
 abstract: >-
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/sui.png
 authors:
   - Stefan Resch
   - Jean-Gabriel Hanania
