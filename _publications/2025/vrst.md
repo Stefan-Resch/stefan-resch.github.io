@@ -10,5 +10,5 @@ authors:
   - Stefan Resch
   - Anna Carroll
 links:
-  Paper: [https://doi.org/10.1109/VRW66409.2025.00139](https://doi.org/10.1145/3756884.3768377)
+  Paper: https://doi.org/10.1145/3756884.3768377
 ---
