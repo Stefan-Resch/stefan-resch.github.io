@@ -5,7 +5,7 @@ selected:       true
 pub:            "Journal: Applied Sciences"
 pub_date:       "2025"
 abstract: >-
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/ai-design.png
 authors:
   - Stefan Resch
   - Jakob Schauer
