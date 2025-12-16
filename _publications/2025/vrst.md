@@ -1,6 +1,6 @@
 ---
 title:          "Influence of Virtual Footwear on Gait Behavior, Embodiment, and Workload While Walking on a Treadmill in Virtual Reality"
-date:           2025-03-08 00:01:00 +0800
+date:           2025-11-12 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology"
 pub_date:       "2025"
