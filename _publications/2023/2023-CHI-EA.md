@@ -5,7 +5,7 @@ selected:       true
 pub:            "ACM Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems"
 pub_date:       "2023"
 abstract: >-
-#cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/toolkit.png
 authors:
 - Valentin Schwind
 - Stefan Resch
