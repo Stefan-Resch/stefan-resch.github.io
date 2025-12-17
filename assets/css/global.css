@@ -90,6 +90,19 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+.social-links a {
+    font-size: 0.85rem; /* kleiner Text */
+    margin-bottom: 0.5rem; /* Abstand zwischen Links */
+    display: block; /* vertikal untereinander */
+}
+
+.social-links i {
+    font-size: 1em; /* Icon proportional zur Schrift */
+    vertical-align: middle;
+}
+
+
+
 /* Macht alles sichtbar für Hover */
 .rounded-xl,
 .rounded-xl .card {
