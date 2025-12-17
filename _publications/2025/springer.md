@@ -11,5 +11,5 @@ authors:
   - Julia Schneider
   - Stefan Resch
 links:
-  Paper: https://doi.org/10.1007/978-3-658-48573-3_12
+  DOI: https://doi.org/10.1007/978-3-658-48573-3_12
 ---
