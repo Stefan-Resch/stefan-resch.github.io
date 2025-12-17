@@ -12,5 +12,6 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Abstract: https://doi.org/10.1515/bmt-2025-1001
+  DOI: https://doi.org/10.1515/bmt-2025-1001
+  PDF: /assets/PDF/BMT25.pdf
 ---
