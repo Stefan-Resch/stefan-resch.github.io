@@ -16,5 +16,6 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.1145/3670653.3677472
+  DOI: https://doi.org/10.1145/3670653.3677472
+  PDF: /assets/PDF/MuC24.pdf
 ---
