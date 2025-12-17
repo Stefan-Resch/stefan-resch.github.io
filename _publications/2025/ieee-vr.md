@@ -2,8 +2,8 @@
 title:          "The Influence of Augmented and Virtual Reality Environments on Foot Positioning Success and Workload in Agility Ladder Exercises"
 date:           2025-03-08 00:01:00 +0800
 selected:       true
-pub:            "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
-pub_date:       "2025"
+pub:            "In: Proceedings of 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Saint Malo, France, 2025, pp. 679-686."
+#pub_date:       "2025"
 abstract: >-
 cover:          /assets/images/covers/ladder-vr.png
 authors:
