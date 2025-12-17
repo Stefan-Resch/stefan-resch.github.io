@@ -36,16 +36,17 @@ education:
 - name: University of Cadiz
   logo: /assets/images/badges/UCA.png
   position: >- 
-    text <br/>
+    Doctoral Program in Manufacturing, Materials and Environmental Engineering <br/>
+    Research line: Bioengineering, Automation and Robotics <br/>
     Ph.D. Student
   date: Dec. 2022 - present
 - name: Frankfurt University of Applied Sciences
   logo: /assets/images/badges/FRA-UAS.png
-  position: M. Eng.
+  position: M. Eng. Mechanical Engineering
   date: 2022
 - name: Frankfurt University of Applied Sciences
   logo: /assets/images/badges/FRA-UAS.png
-  position: B. Eng.
+  position: B. Eng. Product Development and Technical Design
   date: 2020
 
 # experience:
