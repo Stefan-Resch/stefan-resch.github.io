@@ -90,7 +90,7 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-#test
+/* Hover-Effekt für Publications-Bilder */
 .cover-image {
     transition: transform 0.2s ease-in-out; /* Animation */
 }
