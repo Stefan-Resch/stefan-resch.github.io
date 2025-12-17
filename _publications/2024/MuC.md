@@ -18,4 +18,5 @@ authors:
 links:
   DOI: https://doi.org/10.1145/3670653.3677472
   PDF: /assets/PDF/MuC24.pdf
+  BIBTEX: /assets/bibtex/MuC24.bib
 ---
