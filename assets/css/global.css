@@ -90,3 +90,12 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+#test
+.cover-image {
+    transition: transform 0.2s ease-in-out; /* Animation */
+}
+
+.cover-image:hover {
+    transform: scale(1.05); /* Vergrößerung beim Hover */
+    z-index: 1; /* Optional: damit Bild über anderen Elementen liegt */
+}
