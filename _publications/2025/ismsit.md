@@ -11,5 +11,5 @@ authors:
 links:
   DOI: https://doi.org/10.1109/ISMSIT67332.2025.11268164
   PDF: /assets/PDF/ISMSIT25.pdf
-  BIBTEX: /assets/bibtex/ISMSIT25.bib
+  BibTeX: /assets/bibtex/ISMSIT25.bib
 ---
