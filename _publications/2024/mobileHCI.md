@@ -15,5 +15,6 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.1145/3640471.3680233
+  DOI: https://doi.org/10.1145/3640471.3680233
+  PDF: /assets/PDF/MobileHCI24.pdf
 ---
