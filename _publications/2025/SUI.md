@@ -18,5 +18,5 @@ authors:
 links:
   DOI: https://doi.org/10.1145/3694907.3765929
   PDF: /assets/PDF/SUI25.pdf
-  BIBTEX: /assets/bibtex/SUI25.bib
+  BibTeX: /assets/bibtex/SUI25.bib
 ---
