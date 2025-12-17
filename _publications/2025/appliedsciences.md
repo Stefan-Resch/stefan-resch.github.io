@@ -15,5 +15,5 @@ authors:
 links:
   DOI: https://doi.org/10.3390/app15084132
   PDF: /assets/PDF/AppliedSciences.pdf
-  BIBTEX: /assets/bibtex/AppliedSciences25.bib
+  BibTeX: /assets/bibtex/AppliedSciences25.bib
 ---
