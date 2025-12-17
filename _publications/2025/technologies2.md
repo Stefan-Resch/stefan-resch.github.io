@@ -18,4 +18,5 @@ authors:
 links:
   DOI: https://doi.org/10.3390/technologies13120588
   PDF: /assets/PDF/Technologies.pdf
+  BIBTEX: /assets/bibtex/Technologies2.bib
 ---
