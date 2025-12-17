@@ -16,5 +16,6 @@ authors:
   - Yunus Söyleyici
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.3390/technologies13120588
+  DOI: https://doi.org/10.3390/technologies13120588
+  PDF: /assets/PDF/Technologies.pdf
 ---
