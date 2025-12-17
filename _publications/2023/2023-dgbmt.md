@@ -17,4 +17,5 @@ authors:
 links:
   DOI: https://doi.org/10.1515/cdbme-2023-1175
   PDF: /assets/PDF/BMT23.pdf
+  BIBTEX: /assets/bibtex/BMT23.bib
 ---
