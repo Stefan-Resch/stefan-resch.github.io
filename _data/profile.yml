@@ -58,18 +58,18 @@ awards:
   date: 2022
 
 review_activities:
-- name: Augmented Humans International Conference (AHs)
+- name: "Augmented Humans International Conference (AHs)"
   date: 2026
-- name: ACM International Conference on Human Factors in Computing Systems (CHI)
+- name: "ACM International Conference on Human Factors in Computing Systems (CHI)"
   date: 2026
-- name: Taylor & Francis - Disability and Rehabilitation: Assistive Technology (Journal)
+- name: "Taylor & Francis - Disability and Rehabilitation: Assistive Technology (Journal)"
   date: 2025
-- name: International Conference on Human-Computer Interaction (INTERACT)
+- name: "International Conference on Human-Computer Interaction (INTERACT)"
   date: 2025
-- name: ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)
+- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)"
   date: 2025
-- name: ACM Symposium on Virtual Reality Software and Technology (VRST)
+- name: "ACM Symposium on Virtual Reality Software and Technology (VRST)"
   date: 2024
-- name: ACM International Conference on Mobile Human-Computer (MobileHCI)
+- name: "ACM International Conference on Mobile Human-Computer (MobileHCI)"
   date: 2024
 
