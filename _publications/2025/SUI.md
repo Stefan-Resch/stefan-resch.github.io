@@ -2,8 +2,8 @@
 title:          "Foot Placement Feedback in Physical Training: Effects of Spatial User Interfaces on Performance and Workload in Virtual Reality"
 date:           2025-10-10 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the 2025 ACM Symposium on Spatial User Interaction"
-pub_date:       "2025"
+pub:            "In: Proceedings of the 2025 ACM Symposium on Spatial User Interaction (SUI '25). Association for Computing Machinery, New York, NY, USA, Article 16, 1–12."
+#pub_date:       "2025"
 abstract: >-
 cover:          /assets/images/covers/sui.png
 authors:
