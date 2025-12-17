@@ -13,5 +13,6 @@ authors:
 links:
   DOI: https://doi.org/10.1145/3544549.3585890
   PDF: /assets/PDF/CHI23.pdf
+  BIBTEX: /assets/bibtex/CHI23.bib
   HCI-Studies Toolkit: https://hci-studies.org/
 ---
