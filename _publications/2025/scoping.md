@@ -13,5 +13,6 @@ authors:
   - Luca Marco Bauer
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.3390/technologies13080346
+  DOI: https://doi.org/10.3390/technologies13080346
+  PDF: /assets/PDF/ScopingReview.pdf
 ---
