@@ -15,4 +15,5 @@ authors:
 links:
   DOI: https://doi.org/10.1109/VRW66409.2025.00139
   PDF: /assets/PDF/IEEEVR25.pdf
+  BIBTEX: /assets/bibtex/IEEEVR25.bib
 ---
