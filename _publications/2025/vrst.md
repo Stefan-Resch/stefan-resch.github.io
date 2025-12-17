@@ -12,5 +12,5 @@ authors:
 links:
   DOI: https://doi.org/10.1145/3756884.3768377
   PDF: /assets/PDF/VRST25.pdf
-  BIBTEX: /assets/bibtex/VRST25.bib
+  BibTeX: /assets/bibtex/VRST25.bib
 ---
