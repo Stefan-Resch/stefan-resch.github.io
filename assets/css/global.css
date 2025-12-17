@@ -90,15 +90,9 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-/* Publications cover magnifier effect */
-.rounded-xl {
-    overflow: visible !important;
-}
-
+/* Greift auf alle Bilder innerhalb von rounded-xl */
 .rounded-xl img {
-    transition: 
-        transform 0.25s ease,
-        box-shadow 0.25s ease;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
     transform-origin: center center;
     position: relative;
 }
@@ -107,4 +101,10 @@ div.lazy {
     transform: scale(1.35);
     z-index: 10;
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+}
+
+/* Macht sicher, dass kein parent die Anzeige abschneidet */
+.rounded-xl,
+.rounded-xl * {
+    overflow: visible !important;
 }
