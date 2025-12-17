@@ -14,4 +14,5 @@ authors:
 links:
   DOI: https://doi.org/10.1515/bmt-2025-1001
   PDF: /assets/PDF/BMT25.pdf
+  BIBTEX: /assets/bibtex/BMT25.bib
 ---
