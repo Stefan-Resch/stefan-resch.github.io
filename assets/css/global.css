@@ -90,12 +90,15 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-/* Hover-Effekt für Publications-Bilder */
-.cover-image {
-    transition: transform 0.2s ease-in-out; /* Animation */
+/* Publications cover hover */
+.rounded-xl {
+    overflow: visible !important;
 }
 
-.cover-image:hover {
-    transform: scale(1.05); /* Vergrößerung beim Hover */
-    z-index: 1; /* Optional: damit Bild über anderen Elementen liegt */
+.rounded-xl img[src*="/covers/"] {
+    transition: transform 0.25s ease-in-out;
+}
+
+.rounded-xl img[src*="/covers/"]:hover {
+    transform: scale(1.08);
 }
