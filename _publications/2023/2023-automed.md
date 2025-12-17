@@ -12,5 +12,6 @@ authors:
   - Valentin Schwind
   - Diana Völz
 links:
-  Paper: https://www.journals.infinite-science.de/index.php/automed/article/view/744/394
+  DOI: https://www.journals.infinite-science.de/index.php/automed/article/view/744/394
+  PDF: /assets/PDF/automed.pdf
 ---
