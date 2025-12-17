@@ -15,4 +15,5 @@ authors:
 links:
   DOI: https://doi.org/10.3390/technologies13080346
   PDF: /assets/PDF/ScopingReview.pdf
+  BIBTEX: /assets/bibtex/Technologies25.bib
 ---
