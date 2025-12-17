@@ -14,5 +14,5 @@ authors:
 links:
   DOI: https://www.journals.infinite-science.de/index.php/automed/article/view/744/394
   PDF: /assets/PDF/automed.pdf
-  BIBTEX: /assets/bibtex/automed.bib
+  BibTeX: /assets/bibtex/automed.bib
 ---
