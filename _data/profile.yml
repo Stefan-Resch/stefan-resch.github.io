@@ -5,12 +5,12 @@ navbar_name: "Stefan Resch"
 positions:
 - name: Research Associate 
 - name: Frankfurt University of Applied Sciences
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/FRA-UAS.png  # Logo is optional
 
 
 email: "stefan.resch@fra-uas.de"
 # cv_link: link-to-your-cv-file
-gscholar: uY-HQZ0AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: uY-HQZ0AAAAJ  
 #github: your_github_id
 #twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -56,9 +56,11 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: AppliedIdea Idea Competition at Frankfurt UAS - Special Award for Technological Innovation
+  date: 2025
+- name: Best Poster Award - Day of Research at Frankfurt UAS
   date: 2024
-- name: Award Name 1 
+- name: Hessen Ideas Competition - 3<sup>rd</sup> Prize
   date: 2022
-- name: text
+- name: AppliedIdea Idea Competition at Frankfurt UAS - 1<sup>st</sup> Prize
   date: 2022
