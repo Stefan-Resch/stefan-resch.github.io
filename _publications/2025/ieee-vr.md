@@ -13,5 +13,6 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.1109/VRW66409.2025.00139
+  DOI: https://doi.org/10.1109/VRW66409.2025.00139
+  PDF: /assets/PDF/IEEEVR25.pdf
 ---
