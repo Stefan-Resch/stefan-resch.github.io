@@ -90,15 +90,21 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-/* Publications cover hover */
+/* Publications cover magnifier effect */
 .rounded-xl {
     overflow: visible !important;
 }
 
-.rounded-xl img[src*="/covers/"] {
-    transition: transform 0.25s ease-in-out;
+.rounded-xl img {
+    transition: 
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+    transform-origin: center center;
+    position: relative;
 }
 
-.rounded-xl img[src*="/covers/"]:hover {
-    transform: scale(1.08);
+.rounded-xl img:hover {
+    transform: scale(1.35);
+    z-index: 10;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
 }
