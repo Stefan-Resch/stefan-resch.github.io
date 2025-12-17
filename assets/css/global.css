@@ -90,21 +90,22 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
-/* Greift auf alle Bilder innerhalb von rounded-xl */
-.rounded-xl img {
+/* Macht alles sichtbar für Hover */
+.rounded-xl,
+.rounded-xl .card {
+    overflow: visible !important;
+}
+
+.rounded-xl img,
+.rounded-xl .card img {
     transition: transform 0.25s ease, box-shadow 0.25s ease;
     transform-origin: center center;
     position: relative;
 }
 
-.rounded-xl img:hover {
+.rounded-xl img:hover,
+.rounded-xl .card img:hover {
     transform: scale(1.35);
     z-index: 10;
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
-}
-
-/* Macht sicher, dass kein parent die Anzeige abschneidet */
-.rounded-xl,
-.rounded-xl * {
-    overflow: visible !important;
 }
