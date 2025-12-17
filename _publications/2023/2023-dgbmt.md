@@ -6,7 +6,7 @@ pub:            "Current Directions in Biomedical Engineering"
 pub_date:       "2023"
 
 # abstract: >-
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/BMT23.png
 authors:
   - Stefan Resch
   - Khalid Zoufal
