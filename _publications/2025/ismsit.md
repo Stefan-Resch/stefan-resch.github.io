@@ -9,5 +9,6 @@ cover:          /assets/images/covers/framework.png
 authors:
   - Stefan Resch
 links:
-  Paper: https://doi.org/10.1109/ISMSIT67332.2025.11268164
+  DOI: https://doi.org/10.1109/ISMSIT67332.2025.11268164
+  PDF: /assets/PDF/ISMSIT25.pdf
 ---
