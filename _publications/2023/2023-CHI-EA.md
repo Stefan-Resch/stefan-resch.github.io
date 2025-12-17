@@ -11,6 +11,7 @@ authors:
 - Stefan Resch
 - Jessica Sehrt
 links:
-  Paper: https://doi.org/10.1145/3544549.3585890
+  DOI: https://doi.org/10.1145/3544549.3585890
+  PDF: /assets/PDF/CHI23.pdf
   HCI-Studies Toolkit: https://hci-studies.org/
 ---
