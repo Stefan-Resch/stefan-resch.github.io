@@ -2,8 +2,8 @@
 title:          "Personalized Foot Orthoses Through a Patient-Centered Design Approach Using Generative AI"
 date:           2025-08-30 00:01:00 +0800
 selected:       true
-pub:            "Abstracts of the 2025 Joint Annual Conference of the Austrian (ÖGBMT), German (VDE DGBMT) and Swiss (SSBE) Societies for Biomedical Engineering"
-pub_date:       "2025"
+pub:            "In: Abstracts of the 2025 Joint Annual Conference of the Austrian (ÖGBMT), German (VDE DGBMT) and Swiss (SSBE) Societies for Biomedical Engineering, Biomedical Engineering / Biomedizinische Technik, vol. 70, no. s1, 2025, pp. 1-374."
+#pub_date:       "2025"
 abstract: >-
 cover:          /assets/images/covers/Design.png
 authors:
