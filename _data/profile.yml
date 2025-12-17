@@ -47,12 +47,6 @@ education:
   position: B. Eng. Product Development and Technical Design
   date: 2020
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
 awards:
 - name: AppliedIdea Idea Competition at Frankfurt UAS - Special Award for Technological Innovation
   date: 2025
@@ -62,4 +56,20 @@ awards:
   date: 2022
 - name: AppliedIdea Idea Competition at Frankfurt UAS - 1<sup>st</sup> Prize
   date: 2022
+
+review_activities:
+- name: Augmented Humans International Conference (AHs)
+  date: 2026
+- name: ACM International Conference on Human Factors in Computing Systems (CHI)
+  date: 2026
+- name: Taylor & Francis - Disability and Rehabilitation: Assistive Technology (Journal)
+  date: 2025
+- name: International Conference on Human-Computer Interaction (INTERACT)
+  date: 2025
+- name: ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)
+  date: 2025
+- name: ACM Symposium on Virtual Reality Software and Technology (VRST)
+  date: 2024
+- name: ACM International Conference on Mobile Human-Computer (MobileHCI)
+  date: 2024
 
