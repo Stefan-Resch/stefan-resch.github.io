@@ -2,8 +2,8 @@
 title:          "Augmented Smart Insoles – Prototyping a Mobile Application: Usage Preferences of Healthcare Professionals and People with Foot Deformities"
 date:           2023-09-1 00:01:00 +0800
 selected:       false
-pub:            "Current Directions in Biomedical Engineering"
-pub_date:       "2023"
+pub:            "In: Current Directions in Biomedical Engineering, vol. 9, no. 1, 2023, pp. 698-701."
+#pub_date:       "2023"
 
 # abstract: >-
 cover:          /assets/images/covers/BMT23.png
