@@ -2,8 +2,8 @@
 title:          "Generatives Produktdesign orthopädischer Hilfsmittel: Potenziale und Herausforderungen von KI im Produktentwicklungsprozess"
 date:           2025-10-17 00:01:00 +0800
 selected:       true
-pub:            "Book chapter: Künstliche Intelligenz im Einsatz für die erfolgreiche Patientenreise: Innovation, Integration und Stärkung"
-pub_date:       "2025"
+pub:            "In: Pfannstiel, M.A. (eds) Künstliche Intelligenz im Einsatz für die erfolgreiche Patientenreise. Wiesbaden: Springer Gabler, 2023. ISBN: 978-3-658-48572-6 (Print)."
+#pub_date:       "2025"
 abstract: >-
 #cover:          /assets/images/covers/cover3.jpg
 authors:
