@@ -13,5 +13,6 @@ authors:
   - Diana Völz
   - Daniel Sanchez-Morillo
 links:
-  Paper: https://doi.org/10.3390/app15084132
+  DOI: https://doi.org/10.3390/app15084132
+  PDF: /assets/PDF/AppliedSciences.pdf
 ---
