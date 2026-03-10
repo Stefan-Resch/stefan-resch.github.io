@@ -15,5 +15,6 @@ authors:
   - Daniel Sanchez-Morillo
 links:
   DOI: https://doi.org/10.1145/3772363.3799326
+  PDF: /assets/PDF/CHI26.pdf
   BibTeX: /assets/bibtex/CHI26.bib
 ---
