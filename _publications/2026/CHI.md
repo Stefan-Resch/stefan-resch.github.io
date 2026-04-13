@@ -2,8 +2,8 @@
 title:          "Smart Insole Visual Foot Pressure Feedback in Mixed Reality Environments: Impact on Gait, Heart Rate, Workload, and Engagement in Treadmill Walking"
 date:           2026-04-13 00:01:00 +0800
 selected:       true
-pub:            "In: Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26). Association for Computing Machinery, New York, NY, USA."
-pub_last:       ' <span class="badge badge-pill badge-publication" style="background-color: #215F9A; color: white;">Forthcoming</span>'
+pub:            "In: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26). Association for Computing Machinery, New York, NY, USA."
+#pub_last:       ' <span class="badge badge-pill badge-publication" style="background-color: #215F9A; color: white;">Forthcoming</span>'
 #pub_date:       "2026"
 abstract: >-
 cover:          /assets/images/covers/CHI.png
