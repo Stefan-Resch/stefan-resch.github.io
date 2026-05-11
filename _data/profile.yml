@@ -58,6 +58,8 @@ awards:
   date: 2022
 
 review_activities:
+- name: "ACM Transactions on Computing for Healthcare (Journal)"
+  date: 2026
 - name: "Elsevier - Next Bioengineering (Journal)"
   date: 2026
 - name: "Augmented Humans International Conference (AHs)"
@@ -68,7 +70,7 @@ review_activities:
   date: 2025, 2026
 - name: "IFIP TC13 International Conference on Human-Computer Interaction (INTERACT)"
   date: 2025
-- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) — 🏆 Special Recognition for Outstanding Reviews"
+- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) — 🏆 2x Special Recognition for Outstanding Review"
   date: 2025
 - name: "ACM Symposium on Virtual Reality Software and Technology (VRST)"
   date: 2024
