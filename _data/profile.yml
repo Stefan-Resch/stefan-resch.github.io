@@ -48,6 +48,10 @@ education:
   date: 2020
 
 awards:
+- name: Special Recognition for Outstanding Review (Conference: ACM CHI)
+  date: 2026
+- name: 2× Special Recognition for Outstanding Review (Conference: ACM CHI PLAY)
+  date: 2025
 - name: AppliedIdea Idea Competition at Frankfurt UAS — Special Award for Technological Innovation
   date: 2025
 - name: Best Poster Award — Day of Research at Frankfurt UAS
@@ -58,19 +62,23 @@ awards:
   date: 2022
 
 review_activities:
+- name: "Springer Nature - Journal of NeuroEngineering and Rehabilitation (Journal)"
+  date: 2026
 - name: "ACM Transactions on Computing for Healthcare (Journal)"
   date: 2026
 - name: "Elsevier - Next Bioengineering (Journal)"
   date: 2026
 - name: "Augmented Humans International Conference (AHs)"
   date: 2026
-- name: "ACM International Conference on Human Factors in Computing Systems (CHI) — 🏆 Special Recognition for Outstanding Review"
+#- name: "ACM International Conference on Human Factors in Computing Systems (CHI) — 🏆 Special Recognition for Outstanding Review"
+- name: "ACM International Conference on Human Factors in Computing Systems (CHI)"
   date: 2026
 - name: "Taylor & Francis - Disability and Rehabilitation: Assistive Technology (Journal)"
   date: 2025, 2026
 - name: "IFIP TC13 International Conference on Human-Computer Interaction (INTERACT)"
   date: 2025
-- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) — 🏆 2x Special Recognition for Outstanding Review"
+#- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY) — 🏆 2x Special Recognition for Outstanding Review"
+- name: "ACM The Annual Symposium on Computer-Human Interaction in Play (CHI PLAY)"
   date: 2025
 - name: "ACM Symposium on Virtual Reality Software and Technology (VRST)"
   date: 2024
