@@ -62,6 +62,8 @@ awards:
   date: 2022
 
 review_activities:
+- name: "Springer Nature - Discover Artificial Intelligence (Journal)"
+  date: 2026
 - name: "Springer Nature - Journal of NeuroEngineering and Rehabilitation (Journal)"
   date: 2026
 - name: "ACM Transactions on Computing for Healthcare (Journal)"
