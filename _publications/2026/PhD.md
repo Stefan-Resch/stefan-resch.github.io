@@ -10,7 +10,7 @@ cover:          /assets/images/covers/PhD-Thesis.jpeg
 authors:
   - Stefan Resch
 links:
-  #DOI: 
+  URL: 
   PDF: /assets/PDF/PhDThesis_StefanResch.pdf
   BibTeX: /assets/bibtex/PhD-Thesis_StefanResch.bib
 ---
