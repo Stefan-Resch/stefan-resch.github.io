@@ -11,6 +11,6 @@ authors:
   - Stefan Resch
 links:
   URL: 
-  PDF: /assets/PDF/PhDThesis_StefanResch.pdf
+  PDF: /assets/PDF/PhDThesis_StefanResch_compressed.pdf
   BibTeX: /assets/bibtex/PhD-Thesis_StefanResch.bib
 ---
