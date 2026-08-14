@@ -51,24 +51,19 @@ education:
   date: 2020
 
 awards:
-- name: Special Recognition for Outstanding Review
-  position: ACM CHI 2026 Conference
+- name: Special Recognition for Outstanding Review —  ACM CHI 2026 Conference
   date: 2026
-- name: 2x Special Recognition for Outstanding Review
-  position: ACM CHI PLAY 2025 Conference
+- name: 2x Special Recognition for Outstanding Review — ACM CHI PLAY 2025 Conference
   date: 2025
-- name: Special Award for Technological Innovation
-  position: AppliedIdea Idea Competition at Frankfurt UAS
+- name: Special Award for Technological Innovation — AppliedIdea Idea Competition at Frankfurt UAS
   date: 2025
-- name: Best Poster Award
-  position: Day of Research at Frankfurt UAS
+- name: Best Poster Award — Day of Research at Frankfurt UAS
   date: 2024
-- name: Hessen Ideas Competition
-  position: 3<sup>rd</sup> Prize
+- name: Hessen Ideas Competition — 3<sup>rd</sup> Prize
   date: 2022
-- name: AppliedIdea Idea Competition at Frankfurt UAS
-  position: 1<sup>st</sup> Prize
+- name: AppliedIdea Idea Competition at Frankfurt UAS — 1<sup>st</sup> Prize
   date: 2022
+
 
 review_activities:
 - name: "MDPI - Sensors (Journal)"
