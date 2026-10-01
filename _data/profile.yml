@@ -66,6 +66,9 @@ awards:
 
 
 review_activities:
+#- name: "ACM International Conference on Human Factors in Computing Systems (CHI) — 🏆 Special Recognition for Outstanding Review"
+- name: "ACM International Conference on Human Factors in Computing Systems (CHI)"
+  date: 2026, 2027
 - name: "MDPI - Sensors (Journal)"
   date: 2026
 - name: "Springer Nature - Discover Artificial Intelligence (Journal)"
@@ -78,9 +81,6 @@ review_activities:
   date: 2026
 - name: "Augmented Humans International Conference (AHs)"
   date: 2026
-#- name: "ACM International Conference on Human Factors in Computing Systems (CHI) — 🏆 Special Recognition for Outstanding Review"
-- name: "ACM International Conference on Human Factors in Computing Systems (CHI)"
-  date: 2026, 2027
 - name: "Taylor & Francis - Disability and Rehabilitation: Assistive Technology (Journal)"
   date: 2025, 2026
 - name: "IFIP TC13 International Conference on Human-Computer Interaction (INTERACT)"
