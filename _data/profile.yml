@@ -66,6 +66,8 @@ awards:
 
 
 review_activities:
+- name: "Taylor & Francis - International Journal of Human-Computer Interaction (Journal)"
+  date: 2026
 #- name: "ACM International Conference on Human Factors in Computing Systems (CHI) — 🏆 Special Recognition for Outstanding Review"
 - name: "ACM International Conference on Human Factors in Computing Systems (CHI)"
   date: 2026, 2027
