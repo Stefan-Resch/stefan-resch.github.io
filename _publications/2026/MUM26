@@ -3,7 +3,7 @@ title:          "Evaluating Human-Robot Interaction in Virtual Reality: A Care-H
 date:           2026-12-01 00:01:00 +0800
 selected:       true
 pub:            "In: Proceedings of the 25th International Conference on Mobile and Ubiquitous Multimedia (MUM '26). Association for Computing Machinery, New York, NY, USA."
-pub_last:       ' <span class="badge badge-pill badge-publication" style="background-color: #215F9A; color: white;">Forthcoming</span>'
+#pub_last:       ' <span class="badge badge-pill badge-publication" style="background-color: #215F9A; color: white;">Forthcoming</span>'
 #pub_date:       "2026"
 abstract: >-
 cover:          /assets/images/covers/MUM.png
